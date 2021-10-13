@@ -1,1 +1,28 @@
+
 hello
+This is a first line
+
+This master lines
+
+This line is added in dev branch
+This is dev2 lines
+another dev2 lines
+dev3
+dev3 1
+
+pull conflict eclipse
+
+pull conflict
+
+dummy text
+//dummy comment1
+
+
+dev text1
+//dummy
+
+
+
+
+
+
