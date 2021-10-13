@@ -12,5 +12,12 @@ dev3 1
 pull conflict eclipse
 
 pull conflict
+
 dummy text
 //dummy comment1
+
+
+dev text1
+//dummy
+
+
