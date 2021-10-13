@@ -8,3 +8,4 @@ This is dev2 lines
 another dev2 lines
 dev3
 dev3 1
+pull conflict eclipse
